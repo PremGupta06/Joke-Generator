@@ -10,3 +10,4 @@ A simple and fun Joke Generator built using **HTML**, **CSS**, and **JavaScript*
 * Responsive and clean user interface
 * Lightweight and easy to customize
 
+it is live -  https://premgupta06.github.io/Joke-Generator/
